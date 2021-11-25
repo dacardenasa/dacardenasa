@@ -1,6 +1,4 @@
 # Hello World 👋
-
-![Developers Studio](https://unsplash.com/photos/m_HRfLhgABo?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink "Developers image")
     
 ## About me
 
