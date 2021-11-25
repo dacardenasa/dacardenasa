@@ -8,13 +8,13 @@ Graduated from System Engineer School in UNAD university and FullStack Web Devel
 
 ## Tech Stack Experience:
 
-- Javascript - 6 months
-- React.js - 4 Months
-- CSS3 - 1 year
+- Javascript - 2 years
+- React.js - 2 years
+- CSS3 - 2 years
 - Node.js - 3 months
-- Ruby - 9 Months
-- Ruby on Rails- 7 Months
-- Git - 8 Months
+- Ruby - 1 year
+- Ruby on Rails- 1 year
+- Git - 2 years
 
 <!--
 **dacardenasa/dacardenasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
